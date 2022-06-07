@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500px"
+   height="500px"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="heavy_cloudy_2_night.svg"><defs
+   id="defs26">
+  <linearGradient
+     inkscape:collect="always"
+     id="linearGradient869">
+    <stop
+       style="stop-color:#630085;stop-opacity:1"
+       offset="0"
+       id="stop865" />
+    <stop
+       style="stop-color:#e800f0;stop-opacity:1"
+       offset="1"
+       id="stop867" />
+  </linearGradient>
+  <linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient869"
+     id="linearGradient871"
+     x1="265.625"
+     y1="454.10156"
+     x2="378.7919"
+     y2="236.06763"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(0.98730964,0,0,0.97916667,7.5671201,-29.398601)" />
+  <linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient869"
+     id="linearGradient6689"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(0.51370172,0,0,0.50946489,41.604262,18.438967)"
+     x1="265.625"
+     y1="454.10156"
+     x2="378.7919"
+     y2="236.06763" />
+</defs>
+<sodipodi:namedview
+   id="base"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageopacity="0.0"
+   inkscape:pageshadow="2"
+   inkscape:zoom="1.024"
+   inkscape:cx="247.07031"
+   inkscape:cy="268.47158"
+   inkscape:document-units="px"
+   inkscape:current-layer="layer7"
+   showgrid="false"
+   inkscape:window-width="1366"
+   inkscape:window-height="705"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1" />
+<metadata
+   id="metadata29">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      <dc:title></dc:title>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<g
+   inkscape:label="Layer 1"
+   inkscape:groupmode="layer"
+   id="layer1"
+   style="display:inline"
+   class="cloud">
+  <path
+     style="opacity:1;fill:url(#linearGradient871);fill-opacity:1;stroke:none;stroke-width:1.85807192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 279.94502,134.11457 a 122.93162,121.91773 0 0 0 -106.18207,60.716 93.524448,92.753092 0 0 0 -15.78538,-1.43051 93.524448,92.753092 0 0 0 -93.524445,92.75308 93.524448,92.753092 0 0 0 93.524445,92.75309 93.524448,92.753092 0 0 0 57.19454,-19.43033 122.93162,121.91773 0 0 0 64.77291,18.47412 122.93162,121.91773 0 0 0 49.53325,-10.50117 79.061905,78.409831 0 0 0 35.79576,8.58874 79.061905,78.409831 0 0 0 79.06191,-78.40984 A 79.061905,78.409831 0 0 0 399.1858,226.904 122.93162,121.91773 0 0 0 279.94502,134.11457 Z"
+     id="path39"
+     inkscape:connector-curvature="0" />
+</g>
+<g
+   inkscape:groupmode="layer"
+   id="layer7"
+   inkscape:label="Layer 2">
+  <path
+     inkscape:connector-curvature="0"
+     id="path6687"
+     d="m 183.32373,103.51561 a 63.961884,63.434349 0 0 0 -55.24701,31.59081 48.661198,48.259858 0 0 0 -8.21322,-0.7443 48.661198,48.259858 0 0 0 -48.661188,48.25986 48.661198,48.259858 0 0 0 48.661188,48.25985 48.661198,48.259858 0 0 0 29.75858,-10.10969 63.961884,63.434349 0 0 0 33.70165,9.61217 63.961884,63.434349 0 0 0 25.77238,-5.46381 41.13627,40.796993 0 0 0 18.62469,4.46876 41.13627,40.796993 0 0 0 41.13628,-40.79699 41.13627,40.796993 0 0 0 -23.49183,-36.7979 63.961884,63.434349 0 0 0 -62.04152,-48.27876 z"
+     style="display:inline;opacity:1;fill:url(#linearGradient6689);fill-opacity:1;stroke:none;stroke-width:0.96676332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</g>
+<style
+   id="style32">
+   .cloud{
+        animation: cloud_move 7s ease-in-out infinite;
+     }
+     @keyframes cloud_move{
+        0%{transform: translateX(20px);}
+        50%{transform: translateX(-20px);}
+        100%{transform: translateX(20px);}
+     }
+  </style>
+<style
+   id="style848" />
+
+
+
+ /*
+     .cloud{
+        animation: cloud_move 7s ease-in-out infinite;
+     }
+     @keyframes cloud_move{
+        0%{transform: translateX(20px);}
+        50%{transform: translateX(-20px);}
+        100%{transform: translateX(20px);}
+     }
+*/
+
+     .moon{
+        animation: moon_anim 4s ease-in-out infinite;
+     }
+     @keyframes moon_anim {
+        0%{transform: rotate(0deg); transform-origin: 75% 25%;}
+        50%{transform: rotate(15deg); transform-origin: 75% 25%;}
+        100%{transform: rotate(0deg); transform-origin: 75% 25%;}
+     }
+
+     #path4024{
+        animation: star_anim 4s linear  infinite;
+     }
+     #path4022{
+      animation: star_anim 7s linear  infinite;
+   }
+   #path4020{
+      animation: star_anim 6s linear  infinite;
+   }
+   #path4018{
+      animation: star_anim 5s linear  infinite;
+   }
+     @keyframes star_anim {
+        0%{opacity: 1;}
+        30%{opacity: 1;}
+        50%{opacity: 0;}
+        70%{opacity: 1;}
+        100%{opacity: 1;}
+     }
+  </svg>

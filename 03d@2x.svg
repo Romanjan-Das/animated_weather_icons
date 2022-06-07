@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500px"
+   height="500px"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="cloudy.svg">
+  <defs
+     id="defs26">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient869">
+      <stop
+         style="stop-color:#9ed3f6;stop-opacity:1"
+         offset="0"
+         id="stop865" />
+      <stop
+         style="stop-color:#fefcff;stop-opacity:1"
+         offset="1"
+         id="stop867" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient869"
+       id="linearGradient871"
+       x1="245.11719"
+       y1="449.21875"
+       x2="161.99503"
+       y2="262.43481"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.9531245,-43.945312)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.024"
+     inkscape:cx="81.362721"
+     inkscape:cy="268.47158"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     class="cloud">
+    <path
+       style="opacity:1;fill:url(#linearGradient871);fill-opacity:1;stroke:none;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 277.83202,123.04686 a 124.51172,124.51172 0 0 0 -107.54688,62.00783 94.726562,94.726562 0 0 0 -15.98828,-1.46094 94.726562,94.726562 0 0 0 -94.726547,94.72656 94.726562,94.726562 0 0 0 94.726547,94.72656 94.726562,94.726562 0 0 0 57.92968,-19.84375 124.51172,124.51172 0 0 0 65.60548,18.86719 124.51172,124.51172 0 0 0 50.16991,-10.72461 80.078125,80.078125 0 0 0 36.25586,8.77148 80.078125,80.078125 0 0 0 80.07813,-80.07812 80.078125,80.078125 0 0 0 -45.73047,-72.22853 124.51172,124.51172 0 0 0 -120.77343,-94.76367 z"
+       id="path39"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 2" />
+  <style
+     id="style848">
+     .sun{
+        animation: sun_spin 10s linear infinite;
+     }
+     @keyframes sun_spin {
+        0%{transform: rotate(0deg) scale(1); transform-origin: 35% 38.5%;}
+        12.5%{transform: rotate(45deg) scale(1.1); transform-origin: 35% 38.5%;}
+        25%{transform: rotate(90deg) scale(1); transform-origin: 35% 38.5%;}
+        37.5%{transform: rotate(135deg) scale(1.1); transform-origin: 35% 38.5%;}
+        50%{transform: rotate(180deg) scale(1); transform-origin: 35% 38.5%;}
+        62.5%{transform: rotate(225deg) scale(1.1); transform-origin: 35% 38.5%;}
+        75%{transform: rotate(270deg) scale(1); transform-origin: 35% 38.5%;}
+        87.5%{transform: rotate(315deg) scale(1.1); transform-origin: 35% 38.5%;}
+        100%{transform: rotate(360deg) scale(1); transform-origin: 35% 38.5%;}
+     }
+     .cloud{
+        animation: cloud_move 7s ease-in-out infinite;
+     }
+     @keyframes cloud_move{
+        0%{transform: translateX(20px);}
+        50%{transform: translateX(-20px);}
+        100%{transform: translateX(20px);}
+     }
+  </style>
+</svg>
